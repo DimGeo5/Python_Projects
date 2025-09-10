@@ -9,4 +9,4 @@ A simple console - based tic tac toe game, written in Python for 2 players
 - Detects invalid moves
 
 ## How to run
-Execute "main.py" with python 3
+Execute `main.py` with python 3
