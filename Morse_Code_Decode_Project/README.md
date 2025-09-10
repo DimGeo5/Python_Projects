@@ -7,5 +7,10 @@ A Python program to encode English text into Morse code and decode Morse code ba
 - Simple command-line interface
 
 ## How to Run
+
+1. Make sure you have Python 3 installed.  
+2. Open a terminal or command prompt.  
+3. Navigate to the `Morse_Code_Decode_Project` folder:
 ```bash
-python main.py
+cd Python_Projects/Morse_Code_Decode_Project
+
