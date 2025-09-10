@@ -8,4 +8,4 @@ A Python program to encode English text into Morse code and decode Morse code ba
 
 ## How to Run
 - Keep `main.py` and `morse_code.py` in the same folder.  
-- Execute `main.py` using Python 3:
+- Execute `main.py` using Python 3
