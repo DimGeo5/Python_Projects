@@ -9,7 +9,7 @@ A simple console - based tic tac toe game, written in Python for 2 players
 - Detects invalid moves
   
 ## Future Version
--Add a Tkinter GUI
+- Add a Tkinter GUI
 
 ## How to run
 Execute `main.py` with python 3
