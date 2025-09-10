@@ -10,5 +10,3 @@ A simple console - based tic tac toe game, written in Python for 2 players
 
 ## How to run
 Execute "main.py" with python 3
-```bash
-python main.py
