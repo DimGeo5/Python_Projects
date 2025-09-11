@@ -1,5 +1,5 @@
 # Online Shop Project
-A simple online shop created on Python
+A simple online shop created on Python uding Flask
 
 ## Features
 - User can create an account and the credentials should be saved on a csv file
