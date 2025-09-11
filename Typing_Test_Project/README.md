@@ -1,7 +1,7 @@
 # Typing Test 
 A python program that you can test your typing skills
 
-## Feayures
+## Features
 - tkinter Interface
 - easy, normal and hard difficulty
 - Tracks your mistakes and shows them at the end
