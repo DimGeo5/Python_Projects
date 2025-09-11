@@ -7,5 +7,7 @@ A collection of Python projects demonstrating coding skills and problem-solving.
 
 
 #### About
-These projects were completed as exercises from Udemy Python course "100 Days of Code: The Complete Python Pro Bootcamp" , by Dr. Angela Yu.
+These projects were completed as exercises from the Udemy Python course 
+"100 Days of Code: The Complete Python Pro Bootcamp" by Dr. Angela Yu.
+
 
