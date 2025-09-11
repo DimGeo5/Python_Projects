@@ -1,16 +1,13 @@
 # To Do List app
-
 A Python to do list app using Flask module
 
 ## Features
-
 - User can create an account and the credentials should be saved on a jason file
 - User can add tasks and due date for every task
 - Tasks can be completed or deleted
 - Multiple accounts can be created
 
 ## How to Run
-
 - Make sure you have Python 3 installed.  
 - Install required packages (Flask)
 - Execute `main.py` using Python 3
