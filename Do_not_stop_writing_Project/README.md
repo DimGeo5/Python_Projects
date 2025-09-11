@@ -10,3 +10,4 @@ A game made in python that user must not stop writing or else game will be over
 - Make sure you have Python 3 installed.  
 - Install required packages (Flask)
 - Execute `main.py` using Python 3
+- Open your browser and go to http://127.0.0.1:5000
